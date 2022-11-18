@@ -4,6 +4,6 @@ this.name =name
 }
 }
 
-const app =  new App(firstApp)
+const app =  new App('first app')
 
 console.log(app.name)
